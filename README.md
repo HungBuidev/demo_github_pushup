@@ -1,3 +1,3 @@
 # demo_github_pushup
 demo conflict
-demo pc
+demo on my PC gaming
